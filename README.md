@@ -9,14 +9,13 @@ A set of algorithms written with C
 
 ### Dependencies
 
-* C++ Language Compiler / Code Editor
+* C Language Compiler / Code Editor
 
 ## Help
 
 list link to all algorithms
 
-
-- [Algorithms](https://github.com/aminzayer/CPPApps/tree/main/Algorithms)
+- [Algorithms](https://github.com/aminzayer/C-Apps/tree/main/Algorithms)
 
 
 ## Authors
